@@ -1,5 +1,5 @@
 """Example module."""
 
-a=10
-b=20
-print(a+b)
+A=10
+B=20
+print(A+B)
